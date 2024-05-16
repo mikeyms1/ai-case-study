@@ -36,7 +36,7 @@ Their technology is built on Nvidia’s Jetson platform.  Based on the profile f
 
 ## Landscape
 
-Utilidata's primary focus is on embedded software for smart utility meters.  Electrification of everything from cars, heat pumps, growing need for AI, etc, has driven the demand for electricity.  Utilities are struggling to keep up and are looking for ways to better manage the electricity they do produce without having to add too much excess capacity.  They also have to deal with the variability in renewable energy sources such as solar and wind, as well as manage new and existing power generation equipment.
+Utilidata's primary focus is on embedded software for smart utility meters.  [Electrification](https://www.morganstanley.com/ideas/electrification-grid-energy-transition-opportunities) of everything from cars, heat pumps, growing need for AI, etc, has driven the demand for electricity.  Utilities are struggling to keep up and are looking for ways to better manage the electricity they do produce without having to add too much excess capacity.  They also have to deal with the variability in renewable energy sources such as solar and wind, as well as manage new and existing power generation equipment.
 
 Two of their primary competitors are [Itron](https://na.itron.com/) and [Landis+Gyr](https://www.landisgyr.com/).
 
